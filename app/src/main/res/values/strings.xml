@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">michlala-mobile-matala-1</string>
+    <string name="default_title">X\'s turn</string>
+    <string name="play_again_button_text">Play again!</string>
 </resources>
