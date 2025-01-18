@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.stavandyaron.michlala_mobile_matala_1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.stavandyaron.michlala_mobile_matala_1"
