@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    val amogus = 3
+
     private fun clearCells() {
         for (index in 1..9) {
             val cellId = resources.getIdentifier("main_activity_cell_${index}_text_view", "id", packageName)
